@@ -12,6 +12,7 @@ MBA candidate at NYU Stern | Ex-Deutsche Bank | Passionate about AI, strategy & 
 | Project | Description | Tools |
 |---|---|---|
 | [Agentic Investment Analysis](https://github.com/senthil-as/agentic-investment-analysis) | Multi-agent AI system to automate equity research | CrewAI, Python |
+| [RacquetSwap](https://racquetswap.lovable.app/) | P2P marketplace for secondhand tennis racquets | Lovable |
 | Miami Beach ML Model | Predicts real estate values with 94% accuracy | Python, ML |
 
 ## Skills
