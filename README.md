@@ -3,7 +3,7 @@
 MBA candidate at NYU Stern | Ex-Deutsche Bank | Passionate about AI, strategy & finance for tech
 
 ## About Me
-- 🎓 MBA @ NYU Stern (Strategy, AI, Management of Technology & Operations)
+- 🎓 MBA @ NYU Stern 
 - 🏦 Ex-Deutsche Bank — Global Wealth Management (Hong Kong)
 - 🚀 Co-founded Revamp Ltd, a home renovation platform
 - 🤖 Building at the intersection of agentic AI, financial modeling & enterprise strategy
