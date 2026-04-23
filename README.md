@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Senthil 👋
 
-<!--
-**senthil-as/senthil-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MBA candidate at NYU Stern | Ex-Deutsche Bank | Passionate about AI, strategy & finance for tech
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 MBA @ NYU Stern (Strategy, AI, Management of Technology & Operations)
+- 🏦 Ex-Deutsche Bank — Global Wealth Management (Hong Kong)
+- 🚀 Co-founded Revamp Ltd, a home renovation platform
+- 🤖 Building at the intersection of agentic AI, financial modeling & enterprise strategy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+| Project | Description | Tools |
+|---|---|---|
+| [Agentic Investment Analysis](https://github.com/senthil-as/agentic-investment-analysis) | Multi-agent AI system to automate equity research | CrewAI, Python |
+| Miami Beach ML Model | Predicts real estate values with 94% accuracy | Python, ML |
+
+## Skills
+`Python` `SQL` `Excel` `Tableau` `Power BI` `Salesforce` `Bloomberg Terminal` `Figma`
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-senthil--asokan-blue)](https://linkedin.com/in/senthil-asokan)
